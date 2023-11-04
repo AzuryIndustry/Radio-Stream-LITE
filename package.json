@@ -1,0 +1,14 @@
+{
+  "name": "radio-stream-lite",
+  "version": "1.0.0",
+  "description": "A Discord bot for 24/7 radio streaming - Lite version.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.3.1"  // or other dependencies you might need
+  }
+}
